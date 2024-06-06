@@ -1,0 +1,255 @@
+body
+{
+	font-family: 'Montserrat', sans-serif;
+	/* /* background-color: rgb(49, 48, 48);  */
+	color: #fff;
+     margin: 0;
+    padding: 0;
+	background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80'); 
+
+	/* background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('https://wallpaperaccess.com/full/300068.jpg');  */
+
+     /* background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('../img/a.jpeg');    */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+         /* background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('https://wallpaperaccess.com/full/300068.jpg'); */ */
+         /* background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7),url('https://wallpaperaccess.com/full/300068.jpg');  */
+         /* background: linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('../img/download\ \(1\).jpg');  */
+    
+    /* background: linhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fquotefancy.com%2Fmedia%2Fwallpaper%2F3840x2160%2F1534542-Carl-Karcher-Quote-If-the-money-we-donate-helps-one-child-or-can.jpg&imgrefurl=https%3A%2F%2Fquotefancy.com%2Fquote%2F1265229%2FCarl-Karcher-If-the-money-we-donate-helps-one-child-or-can-ease-the-pain-of-one-parent&tbnid=DgE2HRcPOfYX5M&vet=12ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQ..i&docid=aNcoM-8xs_kdLM&w=3840&h=2160&q=donate%20money%20images%20with%20qotation&hl=en&ved=2ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fquotefancy.com%2Fmedia%2Fwallpaper%2F3840x2160%2F1534542-Carl-Karcher-Quote-If-the-money-we-donate-helps-one-child-or-can.jpg&imgrefurl=https%3A%2F%2Fquotefancy.com%2Fquote%2F1265229%2FCarl-Karcher-If-the-money-we-donate-helps-one-child-or-can-ease-the-pain-of-one-parent&tbnid=DgE2HRcPOfYX5M&vet=12ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQ..i&docid=aNcoM-8xs_kdLM&w=3840&h=2160&q=donate%20money%20images%20with%20qotation&hl=en&ved=2ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fquotefancy.com%2Fmedia%2Fwallpaper%2F3840x2160%2F1534542-Carl-Karcher-Quote-If-the-money-we-donate-helps-one-child-or-can.jpg&imgrefurl=https%3A%2F%2Fquotefancy.com%2Fquote%2F1265229%2FCarl-Karcher-If-the-money-we-donate-helps-one-child-or-can-ease-the-pain-of-one-parent&tbnid=DgE2HRcPOfYX5M&vet=12ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQ..i&docid=aNcoM-8xs_kdLM&w=3840&h=2160&q=donate%20money%20images%20with%20qotation&hl=en&ved=2ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQhttps://www.google.com/imgres?imgurl=https%3A%2F%2Fquotefancy.com%2Fmedia%2Fwallpaper%2F3840x2160%2F1534542-Carl-Karcher-Quote-If-the-money-we-donate-helps-one-child-or-can.jpg&imgrefurl=https%3A%2F%2Fquotefancy.com%2Fquote%2F1265229%2FCarl-Karcher-If-the-money-we-donate-helps-one-child-or-can-ease-the-pain-of-one-parent&tbnid=DgE2HRcPOfYX5M&vet=12ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQ..i&docid=aNcoM-8xs_kdLM&w=3840&h=2160&q=donate%20money%20images%20with%20qotation&hl=en&ved=2ahUKEwi6-u63_fbwAhVbUn0KHQj8C_wQMygWegUIARDmAQear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.7)),url('https://wallpaperaccess.com/full/300068.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover;
+    /* font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	background:#f2f2f2; */ */
+
+
+
+.navbar-nav li a{
+    padding: 5px 9px;
+    color: #ffffff;
+    margin-right: 10px;
+    transition: 0.5s ease;
+}   
+.navbar-nav .active a
+{
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar-nav li a:hover{
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar-brand
+{
+    color: #ffffff;
+}
+.navbar-brand:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* .intro {
+	height: 100vh;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.1rem;
+  }
+  .intro-slideshow img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%; /* relative to nearest positioned ancestor and not nearest block-level ancestor - alternatively: width: 100vw; */
+	/* height: 100%; relative to nearest positioned ancestor and not nearest block-level ancestor - alternatively: height: 100vh;  */
+	/* object-fit: cover;
+	z-index:-1; */
+	/* filter: brightness(50%); */ /* 0% black, 100% original image, values > 100% are allowed for brighter than original image. */
+	/* display: none; */
+	/* opacity: 0;
+	transition: opacity 0.75s ease-in-out; */
+  /* } */
+  /* .intro-slideshow img:first-child {
+	display: block;
+	opacity: 1;
+  } */
+  /* .intro .intro-header {
+	border-radius: 0.5rem;
+	padding: 2rem 2.5rem;
+	background-color: rgba(0,0,0,0.5);
+  }
+  .intro h1 {
+	font-size: 4rem;
+	margin-bottom: 0.75rem;
+  }
+  .intro p {
+	font-size: 1.75rem;
+  }
+  
+  @media (max-width: 700px) {
+	html { font-size: 12px; }
+	.intro-header { padding: 1.5rem 2rem; }
+	.intro h1 { font-size: 2.5rem; }
+	.intro p { font-size: 1.25rem; }
+  } */ 
+
+
+
+/* .bg_img {
+	background:url(https://static.pexels.com/photos/168066/pexels-photo-168066.jpeg) no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	-webkit-filter: blur(8px);
+	-moz-filter: blur(8px);
+	-o-filter: blur(8px);
+	-ms-filter: blur(8px);
+	filter: blur(8px);
+	position:absolute;
+	top:0;
+	left:0;
+	height:100%;
+	width:100%;
+	z-index:0;
+} */
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+}
+.form_wrapper {
+    border-radius: 10px;
+	background:rgb(219, 219, 219);
+	opacity: 0.5;
+	width:500px;
+	max-width:100%;
+	box-sizing:border-box;
+	padding:15px;
+	margin:10% auto 0;
+	position:relative;
+	z-index:1;
+	-webkit-box-shadow:0 23px 4px -21px rgba(0, 0, 0, 0.9);
+	-moz-box-shadow:0 23px 4px -21px rgba(0, 0, 0, 0.9);
+	box-shadow:0 23px 4px -21px rgba(0, 0, 0, 0.9);
+}
+.form_container {
+	padding:15px;
+	border:2px dashed #ccc;
+}
+.form_wrapper h2 {
+	font-size:1.5em;
+	line-height:1.5em;
+	margin:0;
+}
+.form_wrapper .title_container {
+	text-align:center;
+	margin:-15px -15px 15px;
+	padding:15px 0;
+	border-bottom:1px dashed #ccc;
+}
+.form_wrapper h3 {
+	font-size:1.1em;
+	font-weight:normal;
+	line-height:1.5em;
+	margin:0;
+}
+.form_wrapper .row {
+	margin:10px -15px;
+}
+.form_wrapper .row > div {
+	padding:0 15px;
+	box-sizing:border-box;
+}
+.form_wrapper .col_half {
+	width:50%;
+	float:left;
+}
+.form_wrapper label {
+	display:block;
+	margin:0 0 5px;
+}
+.form_wrapper .input_field, .form_wrapper .textarea_field {
+	position:relative;
+}
+.form_wrapper .input_field > span, .form_wrapper .textarea_field > span {
+	position:absolute;
+	left:0;
+	top:0;
+	color:#333;
+	height:100%;
+	border-right:1px solid #ccc;
+	text-align:center;
+	width:30px;
+}
+.form_wrapper .textarea_field > span {
+	border-bottom:1px solid #ccc;
+	max-height:35px;
+}
+.form_wrapper .input_field > span > i, .form_wrapper .textarea_field > span > i {
+	padding-top:12px;
+}
+.form_wrapper input[type="text"], .form_wrapper input[type="email"], .form_wrapper input[type="tel"], textarea {
+	width:100%;
+	padding:10px 10px 10px 35px;
+	border:1px solid #ccc;
+	box-sizing:border-box;
+	outline:none;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+}
+.form_wrapper textarea {
+	height:8em;
+}
+.form_wrapper input[type="text"]:focus, .form_wrapper input[type="email"]:focus, .form_wrapper input[type="tel"]:focus, textarea:focus {
+	-webkit-box-shadow:0 0 2px 1px rgba(255, 169, 0, 0.5);
+	-moz-box-shadow:0 0 2px 1px rgba(255, 169, 0, 0.5);
+	box-shadow:0 0 2px 1px rgba(255, 169, 0, 0.5);
+	border:1px solid #f5ba1a;
+}
+.form_wrapper input[type="submit"] {
+	background:#d1c9c9;
+	height:50px;
+	line-height:50px;
+	width:100%;
+	border:none;
+	outline:none;
+	cursor:pointer;
+	color:rgb(17, 17, 17);
+	font-size:1.2em;
+	-webkit-transition: all 0.30s ease-in-out;
+	-moz-transition: all 0.30s ease-in-out;
+	-ms-transition: all 0.30s ease-in-out;
+	transition: all 0.30s ease-in-out;
+}
+.form_wrapper input[type="submit"]:hover, .form_wrapper input[type="submit"]:focus {
+	background:#080808;
+    color: white;
+}
+.credit{
+	position:relative;
+	z-index:1;
+	text-align:center;
+	padding:15px;
+	color:#f5ba1a;	
+}
+.credit a{
+	color:#daa106;	
+}
+@media (max-width: 600px) {
+.form_wrapper .col_half {
+	width:100%;
+	float:none;
+}
+.form_wrapper label {
+	margin:10px 0;
+}
+}
